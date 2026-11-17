@@ -1,0 +1,10 @@
+{
+  "type": "object",
+  "properties": {
+    "hideDevTools": {
+      "title": "Hide the Dev tab",
+      "description": "When true, Moonitaur never shows developer settings (debugging, caching, any admin setting), even to site administrators.",
+      "type": "boolean"
+    }
+  }
+}
